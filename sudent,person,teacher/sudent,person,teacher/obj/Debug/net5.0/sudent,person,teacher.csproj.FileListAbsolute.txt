@@ -1,0 +1,15 @@
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\bin\Debug\net5.0\sudent,person,teacher.exe
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\bin\Debug\net5.0\sudent,person,teacher.deps.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\bin\Debug\net5.0\sudent,person,teacher.runtimeconfig.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\bin\Debug\net5.0\sudent,person,teacher.runtimeconfig.dev.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\bin\Debug\net5.0\sudent,person,teacher.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\bin\Debug\net5.0\ref\sudent,person,teacher.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\bin\Debug\net5.0\sudent,person,teacher.pdb
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\obj\Debug\net5.0\sudent,person,teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\obj\Debug\net5.0\sudent,person,teacher.AssemblyInfoInputs.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\obj\Debug\net5.0\sudent,person,teacher.AssemblyInfo.cs
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\obj\Debug\net5.0\sudent,person,teacher.csproj.CoreCompileInputs.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\obj\Debug\net5.0\sudent,person,teacher.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\obj\Debug\net5.0\ref\sudent,person,teacher.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\obj\Debug\net5.0\sudent,person,teacher.pdb
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\sudent,person,teacher\sudent,person,teacher\obj\Debug\net5.0\sudent,person,teacher.genruntimeconfig.cache
