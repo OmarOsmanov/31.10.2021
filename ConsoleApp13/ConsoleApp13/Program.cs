@@ -1,4 +1,6 @@
-﻿using System;
+// qutu taski
+
+using System;
 
 namespace Task3
 {
