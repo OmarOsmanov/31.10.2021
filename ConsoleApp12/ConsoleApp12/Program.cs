@@ -1,4 +1,6 @@
-﻿using System;
+//student olan task
+
+using System;
 
 namespace Task2
 {

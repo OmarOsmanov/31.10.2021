@@ -1,4 +1,7 @@
-﻿using System;
+//6 si birinde olan task: isci , masin . velosiped olan task
+
+
+using System;
 
 namespace ConsoleApp14
 {

@@ -1,4 +1,6 @@
-﻿using System;
+// qutu taski
+
+using System;
 
 namespace Task3
 {
@@ -6,12 +8,24 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Program.VolumeOfBox(2, 3, 4));
+           Size size1 = new Size();
+            {
+                wetht = 5;
+                length = 6;
+                heigth = 9;
+            };
+            console.Writeline(valumeOfBox(size1));
         }
 
-        public static int VolumeOfBox(int height, int length, int width)
+        static decimal volumeOfBox(Size.size)
         {
-            return height * length * width;
+            return size.wedth *size.length * size.heigth;
         }
+      class Size
+      {
+          public decimal wetht;
+          public decimal length;
+          public decimal heigth;
+      }
     }
 }
