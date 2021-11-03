@@ -1,0 +1,12 @@
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\bin\Debug\net5.0\Yaratdigim class library.deps.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\bin\Debug\net5.0\Yaratdigim class library.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\bin\Debug\net5.0\ref\Yaratdigim class library.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\bin\Debug\net5.0\Yaratdigim class library.pdb
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\obj\Debug\net5.0\Yaratdigim class library.csproj.AssemblyReference.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\obj\Debug\net5.0\Yaratdigim class library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\obj\Debug\net5.0\Yaratdigim class library.AssemblyInfoInputs.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\obj\Debug\net5.0\Yaratdigim class library.AssemblyInfo.cs
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\obj\Debug\net5.0\Yaratdigim class library.csproj.CoreCompileInputs.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\obj\Debug\net5.0\Yaratdigim class library.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\obj\Debug\net5.0\ref\Yaratdigim class library.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\03.11.2021\Yaratdigim class library\obj\Debug\net5.0\Yaratdigim class library.pdb

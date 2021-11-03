@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Yaratdigim class library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Yaratdigim class library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Yaratdigim class library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yaratdigim class library/1.0.0": {
+      "type": "project",
+      "path": "../Yaratdigim class library/Yaratdigim class library.csproj",
+      "msbuildProject": "../Yaratdigim class library/Yaratdigim class library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Yaratdigim class library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Hp-pavilion\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Hp-pavilion\\Desktop\\lesson 1 code\\03.11.2021\\03.11.2021\\03.11.2021.csproj",
+      "projectName": "03.11.2021",
+      "projectPath": "C:\\Users\\Hp-pavilion\\Desktop\\lesson 1 code\\03.11.2021\\03.11.2021\\03.11.2021.csproj",
+      "packagesPath": "C:\\Users\\Hp-pavilion\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hp-pavilion\\Desktop\\lesson 1 code\\03.11.2021\\03.11.2021\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Hp-pavilion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Hp-pavilion\\Desktop\\lesson 1 code\\03.11.2021\\Yaratdigim class library\\Yaratdigim class library.csproj": {
+              "projectPath": "C:\\Users\\Hp-pavilion\\Desktop\\lesson 1 code\\03.11.2021\\Yaratdigim class library\\Yaratdigim class library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "03.11.2021/1.0.0": {
+        "runtime": {
+          "03.11.2021.dll": {}
+        }
+      },
+      "Yaratdigim class library/1.0.0": {
+        "runtime": {
+          "Yaratdigim class library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03.11.2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yaratdigim class library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
